@@ -1,4 +1,4 @@
-# Descrição do Desafio: [Funções de Probabilidade - Distribuições de Probabilidade](https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/5.%20Semana%20-%20Distribui%C3%A7%C3%B5es%20de%20Probabilidade/fun%C3%A7%C3%B5es-probabilidade_distribui%C3%A7%C3%B5es.ipynb)
+### Descrição do Desafio: [Funções de Probabilidade - Distribuições de Probabilidade](https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/5.%20Semana%20-%20Distribui%C3%A7%C3%B5es%20de%20Probabilidade/fun%C3%A7%C3%B5es-probabilidade_distribui%C3%A7%C3%B5es.ipynb)
 
 Neste desafio vamos praticar nossos conhecimentos em probabilidade e estatística,
 conhecimentos fundamentais para qualquer cientista de dados.
