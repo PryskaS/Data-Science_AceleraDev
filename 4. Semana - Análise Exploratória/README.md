@@ -1,4 +1,4 @@
-# Conhecendo melhor nossa base de consumidores: qual estado possui os clientes com melhores pontuações de crédito?
+# Descrição do [Desafio: Conhecendo sua base de consumidores](https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/4.%20Semana%20-%20An%C3%A1lise%20Explorat%C3%B3ria/an%C3%A1lise-explorat%C3%B3ria_conhecendo-base-consumidores.ipynb)
 
 ## Objetivo
 
