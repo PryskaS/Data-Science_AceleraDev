@@ -1,4 +1,7 @@
-# AceleraDev Data Science | Codenation
+<p align="center">
+  <img width="900" height="430" src="https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/Images/Aceleradev-ds-logo.png">
+</p>
+
 
 O que é 
 
