@@ -28,6 +28,8 @@ Conteúdo
 - 
 **[Quarto módulo]() | Distribuição normal, binominal, CDF e PDF**
 - [x] Desafio --> [Funções de Probabilidade - Distribuições de Probabilidade]()
+- [ ] Desafio --> Escolher um paper e dissecar o tema:
+  - [Decision Forests for Classification, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/decisionForests_MSR_TR_2011_114.pdf)
 
 6ª Semana
 - 
