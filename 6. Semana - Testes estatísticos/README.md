@@ -1,4 +1,4 @@
-# Funções de probabilidade
+### Descrição do [Desafio: Funções de Probabilidade - Testes estatísticos](https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/6.%20Semana%20-%20Testes%20estat%C3%ADsticos/fun%C3%A7%C3%B5es-probabilidade_testes-estat%C3%ADsticos.ipynb)
 
 Neste desafio vamos praticar sobre testes de hipóteses, um dos conceitos centrais
 da inferência estatística e de toda pesquisa que utiliza estatística como suporte.
