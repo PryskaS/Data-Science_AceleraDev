@@ -6,7 +6,7 @@ Conteúdo
 
 1ª Semana
 -
-- Introdução | Empresas apoiadoras
+- Introdução | Empresas apoiadoras | Projeto Prático - Entrega Final
 
 2ª Semana
 - 
