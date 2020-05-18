@@ -47,7 +47,7 @@ Conteúdo
 8ª Semana
 - 
 **[Sétimo módulo]() |**
-- [ ] Desafio -->
+- [ ] Desafio --> [Feature engineering]()
 
 9ª Semana
 - 
