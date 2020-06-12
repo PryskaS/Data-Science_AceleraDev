@@ -40,22 +40,22 @@ O AceleraDev Data Science é um programa de formação de profissionais da área
 7ª Semana
 - 
 **[Sexto módulo](https://github.com/PryskaS/Data-Science_AceleraDev/tree/master/7.%20Semana%20-%20Redu%C3%A7%C3%A3o%20de%20Dimensionalidade) | Machine Learning Canvas e Seleção de features**
-- [ ] Desafio --> [Redução de dimensionalidade e seleção de variáveis]()
+- [x] Desafio --> [Redução de dimensionalidade e seleção de variáveis]()
 
 8ª Semana
 - 
 **[Sétimo módulo]() |**
-- [ ] Desafio --> [Feature engineering]()
+- [x] Desafio --> [Feature engineering]()
 
 9ª Semana
 - 
 **[Oitavo módulo]() |**
-- [ ] Desafio -->
+- [x] Desafio --> [Prever nota do ENEM - Modelos Lineares]()
 
 10ª Semana
 - 
 **[Nono módulo]() |**
-- [ ] Desafio -->
+- [ ] Desafio --> [Descobrir quem fez ENEM 2016]()
 
 Empresas Apoiadoras
 - 
