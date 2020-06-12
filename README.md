@@ -49,12 +49,12 @@ O AceleraDev Data Science é um programa de formação de profissionais da área
 
 9ª Semana
 - 
-**[Oitavo módulo]() |**
+**[Oitavo módulo]() |Google Cloud, TradeOff Bias x Variance, AutoML, Ridge and Lasso Regression**
 - [x] Desafio --> [Prever nota do ENEM - Modelos Lineares]()
 
 10ª Semana
 - 
-**[Nono módulo]() |**
+**[Nono módulo]() | TensorFlow, Imbalanced Learning, Classificação, Dados desbalanceados**
 - [ ] Desafio --> [Descobrir quem fez ENEM 2016]()
 
 Empresas Apoiadoras
