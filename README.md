@@ -44,7 +44,7 @@ O AceleraDev Data Science é um programa de formação de profissionais da área
 
 8ª Semana
 - 
-**[Sétimo módulo]() |**
+**[Sétimo módulo]() |Feature Engineering, Arquitetura padrão, Features de texto**
 - [x] Desafio --> [Feature engineering]()
 
 9ª Semana
