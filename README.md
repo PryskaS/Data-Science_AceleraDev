@@ -40,22 +40,22 @@ O AceleraDev Data Science é um programa de formação de profissionais da área
 7ª Semana
 - 
 **[Sexto módulo](https://github.com/PryskaS/Data-Science_AceleraDev/tree/master/7.%20Semana%20-%20Redu%C3%A7%C3%A3o%20de%20Dimensionalidade) | Machine Learning Canvas e Seleção de features**
-- [x] Desafio --> [Redução de dimensionalidade e seleção de variáveis]()
+- [x] Desafio --> [Redução de dimensionalidade e seleção de variáveis](https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/7.%20Semana%20-%20Redu%C3%A7%C3%A3o%20de%20Dimensionalidade/redu%C3%A7%C3%A3o-dimensionalidade-e-sele%C3%A7%C3%A3o-vari%C3%A1veis.ipynb)
 
 8ª Semana
 - 
 **[Sétimo módulo]() |Feature Engineering, Arquitetura padrão, Features de texto**
-- [x] Desafio --> [Feature engineering]()
+- [x] Desafio --> [Feature engineering](https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/8.%20Semana%20-%20Feature%20Engineering/feature-engineering.ipynb)
 
 9ª Semana
 - 
 **[Oitavo módulo]() |Google Cloud, TradeOff Bias x Variance, AutoML, Ridge and Lasso Regression**
-- [x] Desafio --> [Prever nota do ENEM - Modelos Lineares]()
+- [x] Desafio --> [Prever nota do ENEM - Modelos Lineares](https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/9.%20Semana%20-%20AutoML%20%26%20Ridge%20and%20Lasso%20Regression/prever-nota-modelos-lineares.ipynb)
 
 10ª Semana
 - 
 **[Nono módulo]() | TensorFlow, Imbalanced Learning, Classificação, Dados desbalanceados**
-- [ ] Desafio --> [Descobrir quem fez ENEM 2016]()
+- [x] Desafio --> [Descobrir quem fez ENEM 2016](https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/9.2.%20Semana-%20TensorFlow%2C%20Imbalanced%20Learning%20e%20Classifica%C3%A7%C3%A3o/descobrir-quem-fez-enem.ipynb)
 
 Empresas Apoiadoras
 - 
