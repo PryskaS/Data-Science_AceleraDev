@@ -73,7 +73,7 @@ Empresas Apoiadoras
 ## Certificado
 
 <p align="center">
-  <img width="630" height="430" src="https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/Images/cerfificado_aceleradev.PNG">
+  <img width="930" height="530" src="https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/Images/cerfificado_aceleradev.PNG">
 </p>
 
 ## Referências
