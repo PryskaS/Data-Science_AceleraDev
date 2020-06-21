@@ -70,6 +70,11 @@ Empresas Apoiadoras
 * [Voyager](https://www.voyagerportal.com/company/)
 * [Itaú](https://www.itau.com.br/sobre/quem-somos/)
 
+## Certificado
+
+<p align="center">
+  <img width="430" height="430" src="https://github.com/PryskaS/Data-Science_AceleraDev/blob/master/Images/cerfificado_aceleradev.PNG">
+</p>
 
 ## Referências
 
